@@ -1,0 +1,3 @@
+com/sdc/map_reduce/word_count/WordCount$IntSumReducer.class
+com/sdc/map_reduce/word_count/WordCount.class
+com/sdc/map_reduce/word_count/WordCount$TokenizerMapper.class
